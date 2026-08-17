@@ -9,6 +9,17 @@ The notebook demonstrates different techniques for handling missing values, impu
 
 ---
 
+# 🎥 Project Video
+
+> **Video Demonstration:**
+> Replace the URL below with your project video link.
+
+🔗 **[▶️ Watch Project Video](YOUR_VIDEO_LINK_HERE)**
+
+```text
+YOUR_VIDEO_LINK_HERE
+```
+
 ## 🎯 Project Objective
 
 The main objective of this project is to clean, preprocess, and transform raw and inconsistent healthcare data into a **high-quality, structured, reliable, and analysis-ready dataset**.
@@ -510,17 +521,6 @@ Data Cleanser.ipynb
 Execute the cells sequentially to reproduce the complete data-cleaning workflow.
 
 ---
-
-# 🎥 Project Video
-
-> **Video Demonstration:**
-> Replace the URL below with your project video link.
-
-🔗 **[▶️ Watch Project Video](YOUR_VIDEO_LINK_HERE)**
-
-```text
-YOUR_VIDEO_LINK_HERE
-```
 
 ---
 
