@@ -14,7 +14,7 @@ The notebook demonstrates different techniques for handling missing values, impu
 > **Video Demonstration:**
 > Replace the URL below with your project video link.
 
-🔗 **[▶️ Watch Project Video](YOUR_VIDEO_LINK_HERE)**
+🔗 **[▶️ Watch Project Video](https://drive.google.com/file/d/1KN9DQFEGsCT7kxKjz3pi-_QOChRaJpHz/view?usp=drive_link)**
 
 ```text
 YOUR_VIDEO_LINK_HERE
