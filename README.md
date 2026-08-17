@@ -16,9 +16,6 @@ The notebook demonstrates different techniques for handling missing values, impu
 
 🔗 **[▶️ Watch Project Video](https://drive.google.com/file/d/1KN9DQFEGsCT7kxKjz3pi-_QOChRaJpHz/view?usp=drive_link)**
 
-```text
-YOUR_VIDEO_LINK_HERE
-```
 
 ## 🎯 Project Objective
 
